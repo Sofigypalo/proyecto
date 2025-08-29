@@ -1,0 +1,39 @@
+header, footer {
+ background-color: lightgreen;
+color:black;
+text-align: center; 
+ } 
+ nav { 
+background-color:gray; 
+justify-content: center; 
+}
+ nav a {
+text-decoration:none; 
+ color: black;
+ font-weight: bold; 
+ } 
+  main { 
+display: flex;
+} 
+strong {
+ color: rgb(13, 82, 44);
+ } 
+ article {
+ background-color: rgb(165, 231, 216);
+ padding: 1rem;
+ border-radius: 10px;
+ margin-bottom: 1rem;
+ } 
+aside {
+ background-color: white;
+ }
+ img {
+ max-width: 100%;
+ margin-top: 1rem;
+ border: 4px solid #f44336;
+ border-radius: 8px;
+ } 
+ footer a {
+ color: rgb(0, 0, 0);
+ text-decoration: none;
+ }
